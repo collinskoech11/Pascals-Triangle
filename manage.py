@@ -3,6 +3,7 @@ class Solution:
     
         triangle = []
 
+
         if numRows < 1:
             return triangle
 
