@@ -7,4 +7,5 @@ def printPascal(n):
         print("");
 
 n = 5;
+
 printPascal(n);
