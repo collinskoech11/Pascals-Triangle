@@ -24,7 +24,12 @@ class Solution:
 
             row.append(1)
 
-            triangle.append(row)
+            
+
+
+
+
+         triangle.append(row)
             i+=1
 
         return triangle
