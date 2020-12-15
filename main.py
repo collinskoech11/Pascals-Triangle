@@ -6,6 +6,6 @@ def printPascal(n):
             C = int(C * (line-1)/i);
         print("");
 
-n = 5;
+n = 6;
 
 printPascal(n);
