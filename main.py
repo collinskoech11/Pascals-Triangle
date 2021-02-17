@@ -4,8 +4,8 @@ def printPascal(n):
         for i in range(1, line+1):
             print(C, end = " ");
             C = int(C * (line-1)/i);
-        print("");
+        print("")
 
-n = 6;
+n = 6
 
-printPascal(n);
+printPascal(n)
